@@ -1,0 +1,11 @@
+framework module truID_FingerSDK {
+  umbrella header "truID_FingerSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module truID_FingerSDK.Swift {
+  header "truID_FingerSDK-Swift.h"
+  requires objc
+}

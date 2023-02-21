@@ -1,0 +1,83 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name truID_FingerSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVKit
+import CoreGraphics
+import Foundation
+import Swift
+import T5AirSnapFramework
+import UIKit
+import VideoToolbox
+import Vision
+import _Concurrency
+import _StringProcessing
+@_exported import truID_FingerSDK
+public enum FingerprintPositionCode {
+  case left_4
+  case right_4
+  case left_thumb
+  case right_thumb
+  public static func == (a: truID_FingerSDK.FingerprintPositionCode, b: truID_FingerSDK.FingerprintPositionCode) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class FingerprintCaptureViewController : UIKit.UIViewController, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
+  @_Concurrency.MainActor(unsafe) public var fingerprintCaptureDelegate: truID_FingerSDK.FingerprintCaptureProtocol?
+  @_Concurrency.MainActor(unsafe) public var fingerPrintPositionCode: truID_FingerSDK.FingerprintPositionCode
+  @_Concurrency.MainActor(unsafe) public var token: Swift.String
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func didReceiveMemoryWarning()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public var supportedInterfaceOrientations: UIKit.UIInterfaceOrientationMask {
+    @objc get
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public var preferredInterfaceOrientationForPresentation: UIKit.UIInterfaceOrientation {
+    @objc get
+  }
+  @_Concurrency.MainActor(unsafe) @objc public func captureOutput(_ output: AVFoundation.AVCaptureOutput, didOutput sampleBuffer: CoreMedia.CMSampleBuffer, from connection: AVFoundation.AVCaptureConnection)
+  public enum ImageType {
+    case IMAGE_TYPE_WSQ, IMAGE_TYPE_BMP
+    public static func == (a: truID_FingerSDK.FingerprintCaptureViewController.ImageType, b: truID_FingerSDK.FingerprintCaptureViewController.ImageType) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  @_Concurrency.MainActor(unsafe) public func createTemplate(rect: T5AirSnapFramework.SgmRectImage) throws -> Foundation.Data?
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+public class FingerprintResult {
+  public var handImage: CoreGraphics.CGImage
+  public var left_thumb: truID_FingerSDK.Finger?
+  public var left_index: truID_FingerSDK.Finger?
+  public var left_middle: truID_FingerSDK.Finger?
+  public var left_ring: truID_FingerSDK.Finger?
+  public var left_little: truID_FingerSDK.Finger?
+  public var right_thumb: truID_FingerSDK.Finger?
+  public var right_index: truID_FingerSDK.Finger?
+  public var right_middle: truID_FingerSDK.Finger?
+  public var right_ring: truID_FingerSDK.Finger?
+  public var right_little: truID_FingerSDK.Finger?
+  public init(handImage: CoreGraphics.CGImage, left_thumb: truID_FingerSDK.Finger? = nil, left_index: truID_FingerSDK.Finger? = nil, left_middle: truID_FingerSDK.Finger? = nil, left_ring: truID_FingerSDK.Finger? = nil, left_little: truID_FingerSDK.Finger? = nil, right_thumb: truID_FingerSDK.Finger? = nil, right_index: truID_FingerSDK.Finger? = nil, right_middle: truID_FingerSDK.Finger? = nil, right_ring: truID_FingerSDK.Finger? = nil, right_little: truID_FingerSDK.Finger? = nil)
+  @objc deinit
+}
+public protocol FingerprintCaptureProtocol {
+  func callback(result: truID_FingerSDK.FingerprintResult)
+  func onError(message: Swift.String)
+}
+@objc public class Finger : ObjectiveC.NSObject {
+  @objc public init(position: Swift.UInt32, bmpData: Foundation.NSData, isoTemplateData: Foundation.Data, nistQualityScore: Swift.UInt8)
+  @objc public func getPosition() -> Swift.UInt32
+  @objc public func getBmpData() -> Foundation.NSData
+  @objc public func getNistQualityScore() -> Swift.UInt8
+  @objc public func getIsoTemplateData() -> Foundation.Data
+  @objc deinit
+}
+extension truID_FingerSDK.FingerprintPositionCode : Swift.Equatable {}
+extension truID_FingerSDK.FingerprintPositionCode : Swift.Hashable {}
+extension truID_FingerSDK.FingerprintCaptureViewController.ImageType : Swift.Equatable {}
+extension truID_FingerSDK.FingerprintCaptureViewController.ImageType : Swift.Hashable {}

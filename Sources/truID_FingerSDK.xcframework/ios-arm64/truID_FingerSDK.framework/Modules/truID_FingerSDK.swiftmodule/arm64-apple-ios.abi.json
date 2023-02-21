@@ -1,0 +1,3069 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "truID_FingerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "truID_FingerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "truID_FingerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "truID_FingerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "T5AirSnapFramework",
+        "printedName": "T5AirSnapFramework",
+        "declKind": "Import",
+        "moduleName": "truID_FingerSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FingerprintPositionCode",
+        "printedName": "FingerprintPositionCode",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "left_4",
+            "printedName": "left_4",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(truID_FingerSDK.FingerprintPositionCode.Type) -> truID_FingerSDK.FingerprintPositionCode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FingerprintPositionCode",
+                    "printedName": "truID_FingerSDK.FingerprintPositionCode",
+                    "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "truID_FingerSDK.FingerprintPositionCode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FingerprintPositionCode",
+                        "printedName": "truID_FingerSDK.FingerprintPositionCode",
+                        "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO6left_4yA2CmF",
+            "mangledName": "$s15truID_FingerSDK23FingerprintPositionCodeO6left_4yA2CmF",
+            "moduleName": "truID_FingerSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "right_4",
+            "printedName": "right_4",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(truID_FingerSDK.FingerprintPositionCode.Type) -> truID_FingerSDK.FingerprintPositionCode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FingerprintPositionCode",
+                    "printedName": "truID_FingerSDK.FingerprintPositionCode",
+                    "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "truID_FingerSDK.FingerprintPositionCode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FingerprintPositionCode",
+                        "printedName": "truID_FingerSDK.FingerprintPositionCode",
+                        "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO7right_4yA2CmF",
+            "mangledName": "$s15truID_FingerSDK23FingerprintPositionCodeO7right_4yA2CmF",
+            "moduleName": "truID_FingerSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "left_thumb",
+            "printedName": "left_thumb",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(truID_FingerSDK.FingerprintPositionCode.Type) -> truID_FingerSDK.FingerprintPositionCode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FingerprintPositionCode",
+                    "printedName": "truID_FingerSDK.FingerprintPositionCode",
+                    "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "truID_FingerSDK.FingerprintPositionCode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FingerprintPositionCode",
+                        "printedName": "truID_FingerSDK.FingerprintPositionCode",
+                        "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO10left_thumbyA2CmF",
+            "mangledName": "$s15truID_FingerSDK23FingerprintPositionCodeO10left_thumbyA2CmF",
+            "moduleName": "truID_FingerSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "right_thumb",
+            "printedName": "right_thumb",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(truID_FingerSDK.FingerprintPositionCode.Type) -> truID_FingerSDK.FingerprintPositionCode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FingerprintPositionCode",
+                    "printedName": "truID_FingerSDK.FingerprintPositionCode",
+                    "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "truID_FingerSDK.FingerprintPositionCode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FingerprintPositionCode",
+                        "printedName": "truID_FingerSDK.FingerprintPositionCode",
+                        "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO11right_thumbyA2CmF",
+            "mangledName": "$s15truID_FingerSDK23FingerprintPositionCodeO11right_thumbyA2CmF",
+            "moduleName": "truID_FingerSDK"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "FingerprintPositionCode",
+                "printedName": "truID_FingerSDK.FingerprintPositionCode",
+                "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "FingerprintPositionCode",
+                "printedName": "truID_FingerSDK.FingerprintPositionCode",
+                "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s15truID_FingerSDK23FingerprintPositionCodeO2eeoiySbAC_ACtFZ",
+            "moduleName": "truID_FingerSDK",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO9hashValueSivp",
+            "mangledName": "$s15truID_FingerSDK23FingerprintPositionCodeO9hashValueSivp",
+            "moduleName": "truID_FingerSDK",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO9hashValueSivg",
+                "mangledName": "$s15truID_FingerSDK23FingerprintPositionCodeO9hashValueSivg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s15truID_FingerSDK23FingerprintPositionCodeO4hash4intoys6HasherVz_tF",
+            "moduleName": "truID_FingerSDK",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO",
+        "mangledName": "$s15truID_FingerSDK23FingerprintPositionCodeO",
+        "moduleName": "truID_FingerSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FingerprintCaptureViewController",
+        "printedName": "FingerprintCaptureViewController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "fingerprintCaptureDelegate",
+            "printedName": "fingerprintCaptureDelegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.FingerprintCaptureProtocol?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FingerprintCaptureProtocol",
+                    "printedName": "truID_FingerSDK.FingerprintCaptureProtocol",
+                    "usr": "s:15truID_FingerSDK26FingerprintCaptureProtocolP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC011fingerprintF8DelegateAA0eF8Protocol_pSgvp",
+            "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC011fingerprintF8DelegateAA0eF8Protocol_pSgvp",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.FingerprintCaptureProtocol?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FingerprintCaptureProtocol",
+                        "printedName": "truID_FingerSDK.FingerprintCaptureProtocol",
+                        "usr": "s:15truID_FingerSDK26FingerprintCaptureProtocolP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC011fingerprintF8DelegateAA0eF8Protocol_pSgvg",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC011fingerprintF8DelegateAA0eF8Protocol_pSgvg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.FingerprintCaptureProtocol?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FingerprintCaptureProtocol",
+                        "printedName": "truID_FingerSDK.FingerprintCaptureProtocol",
+                        "usr": "s:15truID_FingerSDK26FingerprintCaptureProtocolP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC011fingerprintF8DelegateAA0eF8Protocol_pSgvs",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC011fingerprintF8DelegateAA0eF8Protocol_pSgvs",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC011fingerprintF8DelegateAA0eF8Protocol_pSgvM",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC011fingerprintF8DelegateAA0eF8Protocol_pSgvM",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "fingerPrintPositionCode",
+            "printedName": "fingerPrintPositionCode",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FingerprintPositionCode",
+                "printedName": "truID_FingerSDK.FingerprintPositionCode",
+                "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC23fingerPrintPositionCodeAA0ekL0Ovp",
+            "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC23fingerPrintPositionCodeAA0ekL0Ovp",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FingerprintPositionCode",
+                    "printedName": "truID_FingerSDK.FingerprintPositionCode",
+                    "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC23fingerPrintPositionCodeAA0ekL0Ovg",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC23fingerPrintPositionCodeAA0ekL0Ovg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FingerprintPositionCode",
+                    "printedName": "truID_FingerSDK.FingerprintPositionCode",
+                    "usr": "s:15truID_FingerSDK23FingerprintPositionCodeO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC23fingerPrintPositionCodeAA0ekL0Ovs",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC23fingerPrintPositionCodeAA0ekL0Ovs",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC23fingerPrintPositionCodeAA0ekL0OvM",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC23fingerPrintPositionCodeAA0ekL0OvM",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "token",
+            "printedName": "token",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC5tokenSSvp",
+            "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC5tokenSSvp",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC5tokenSSvg",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC5tokenSSvg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC5tokenSSvs",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC5tokenSSvs",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC5tokenSSvM",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC5tokenSSvM",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@truID_FingerSDK@objc(cs)FingerprintCaptureViewController(im)viewDidLoad",
+            "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC11viewDidLoadyyF",
+            "moduleName": "truID_FingerSDK",
+            "overriding": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "didReceiveMemoryWarning",
+            "printedName": "didReceiveMemoryWarning()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@truID_FingerSDK@objc(cs)FingerprintCaptureViewController(im)didReceiveMemoryWarning",
+            "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC23didReceiveMemoryWarningyyF",
+            "moduleName": "truID_FingerSDK",
+            "overriding": true,
+            "objc_name": "didReceiveMemoryWarning",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@truID_FingerSDK@objc(cs)FingerprintCaptureViewController(py)supportedInterfaceOrientations",
+            "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "truID_FingerSDK",
+            "overriding": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@truID_FingerSDK@objc(cs)FingerprintCaptureViewController(im)supportedInterfaceOrientations",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "truID_FingerSDK",
+                "overriding": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "preferredInterfaceOrientationForPresentation",
+            "printedName": "preferredInterfaceOrientationForPresentation",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientation",
+                "printedName": "UIKit.UIInterfaceOrientation",
+                "usr": "c:@E@UIInterfaceOrientation"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@truID_FingerSDK@objc(cs)FingerprintCaptureViewController(py)preferredInterfaceOrientationForPresentation",
+            "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC44preferredInterfaceOrientationForPresentationSo011UIInterfaceK0Vvp",
+            "moduleName": "truID_FingerSDK",
+            "overriding": true,
+            "objc_name": "preferredInterfaceOrientationForPresentation",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientation",
+                    "printedName": "UIKit.UIInterfaceOrientation",
+                    "usr": "c:@E@UIInterfaceOrientation"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@truID_FingerSDK@objc(cs)FingerprintCaptureViewController(im)preferredInterfaceOrientationForPresentation",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC44preferredInterfaceOrientationForPresentationSo011UIInterfaceK0Vvg",
+                "moduleName": "truID_FingerSDK",
+                "overriding": true,
+                "objc_name": "preferredInterfaceOrientationForPresentation",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "captureOutput",
+            "printedName": "captureOutput(_:didOutput:from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AVCaptureOutput",
+                "printedName": "AVFoundation.AVCaptureOutput",
+                "usr": "c:objc(cs)AVCaptureOutput"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CMSampleBuffer",
+                "printedName": "CoreMedia.CMSampleBuffer",
+                "usr": "c:@T@CMSampleBufferRef"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AVCaptureConnection",
+                "printedName": "AVFoundation.AVCaptureConnection",
+                "usr": "c:objc(cs)AVCaptureConnection"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@truID_FingerSDK@objc(cs)FingerprintCaptureViewController(im)captureOutput:didOutputSampleBuffer:fromConnection:",
+            "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC13captureOutput_03didJ04fromySo09AVCaptureJ0C_So17CMSampleBufferRefaSo0M10ConnectionCtF",
+            "moduleName": "truID_FingerSDK",
+            "objc_name": "captureOutput:didOutputSampleBuffer:fromConnection:",
+            "declAttributes": [
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "ImageType",
+            "printedName": "ImageType",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "IMAGE_TYPE_WSQ",
+                "printedName": "IMAGE_TYPE_WSQ",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(truID_FingerSDK.FingerprintCaptureViewController.ImageType.Type) -> truID_FingerSDK.FingerprintCaptureViewController.ImageType",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ImageType",
+                        "printedName": "truID_FingerSDK.FingerprintCaptureViewController.ImageType",
+                        "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "truID_FingerSDK.FingerprintCaptureViewController.ImageType.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ImageType",
+                            "printedName": "truID_FingerSDK.FingerprintCaptureViewController.ImageType",
+                            "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO14IMAGE_TYPE_WSQyA2EmF",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO14IMAGE_TYPE_WSQyA2EmF",
+                "moduleName": "truID_FingerSDK"
+              },
+              {
+                "kind": "Var",
+                "name": "IMAGE_TYPE_BMP",
+                "printedName": "IMAGE_TYPE_BMP",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(truID_FingerSDK.FingerprintCaptureViewController.ImageType.Type) -> truID_FingerSDK.FingerprintCaptureViewController.ImageType",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ImageType",
+                        "printedName": "truID_FingerSDK.FingerprintCaptureViewController.ImageType",
+                        "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "truID_FingerSDK.FingerprintCaptureViewController.ImageType.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ImageType",
+                            "printedName": "truID_FingerSDK.FingerprintCaptureViewController.ImageType",
+                            "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO14IMAGE_TYPE_BMPyA2EmF",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO14IMAGE_TYPE_BMPyA2EmF",
+                "moduleName": "truID_FingerSDK"
+              },
+              {
+                "kind": "Function",
+                "name": "==",
+                "printedName": "==(_:_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImageType",
+                    "printedName": "truID_FingerSDK.FingerprintCaptureViewController.ImageType",
+                    "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImageType",
+                    "printedName": "truID_FingerSDK.FingerprintCaptureViewController.ImageType",
+                    "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO2eeoiySbAE_AEtFZ",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO2eeoiySbAE_AEtFZ",
+                "moduleName": "truID_FingerSDK",
+                "static": true,
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "hashValue",
+                "printedName": "hashValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO9hashValueSivp",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO9hashValueSivp",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO9hashValueSivg",
+                    "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO9hashValueSivg",
+                    "moduleName": "truID_FingerSDK",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "hash",
+                "printedName": "hash(into:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Hasher",
+                    "printedName": "Swift.Hasher",
+                    "paramValueOwnership": "InOut",
+                    "usr": "s:s6HasherV"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO4hash4intoys6HasherVz_tF",
+                "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO4hash4intoys6HasherVz_tF",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO",
+            "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC9ImageTypeO",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "createTemplate",
+            "printedName": "createTemplate(rect:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Data?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SgmRectImage",
+                "printedName": "T5AirSnapFramework.SgmRectImage",
+                "usr": "s:18T5AirSnapFramework12SgmRectImageC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15truID_FingerSDK32FingerprintCaptureViewControllerC14createTemplate4rect10Foundation4DataVSg18T5AirSnapFramework12SgmRectImageC_tKF",
+            "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC14createTemplate4rect10Foundation4DataVSg18T5AirSnapFramework12SgmRectImageC_tKF",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FingerprintCaptureViewController",
+                "printedName": "truID_FingerSDK.FingerprintCaptureViewController",
+                "usr": "c:@M@truID_FingerSDK@objc(cs)FingerprintCaptureViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@truID_FingerSDK@objc(cs)FingerprintCaptureViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "truID_FingerSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.FingerprintCaptureViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FingerprintCaptureViewController",
+                    "printedName": "truID_FingerSDK.FingerprintCaptureViewController",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)FingerprintCaptureViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@truID_FingerSDK@objc(cs)FingerprintCaptureViewController(im)initWithCoder:",
+            "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "truID_FingerSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@truID_FingerSDK@objc(cs)FingerprintCaptureViewController",
+        "mangledName": "$s15truID_FingerSDK32FingerprintCaptureViewControllerC",
+        "moduleName": "truID_FingerSDK",
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "truID_FingerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "truID_FingerSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FingerprintResult",
+        "printedName": "FingerprintResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "handImage",
+            "printedName": "handImage",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGImage",
+                "printedName": "CoreGraphics.CGImage",
+                "usr": "c:@T@CGImageRef"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK17FingerprintResultC9handImageSo10CGImageRefavp",
+            "mangledName": "$s15truID_FingerSDK17FingerprintResultC9handImageSo10CGImageRefavp",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGImage",
+                    "printedName": "CoreGraphics.CGImage",
+                    "usr": "c:@T@CGImageRef"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC9handImageSo10CGImageRefavg",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC9handImageSo10CGImageRefavg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGImage",
+                    "printedName": "CoreGraphics.CGImage",
+                    "usr": "c:@T@CGImageRef"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC9handImageSo10CGImageRefavs",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC9handImageSo10CGImageRefavs",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC9handImageSo10CGImageRefavM",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC9handImageSo10CGImageRefavM",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "left_thumb",
+            "printedName": "left_thumb",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK17FingerprintResultC10left_thumbAA0C0CSgvp",
+            "mangledName": "$s15truID_FingerSDK17FingerprintResultC10left_thumbAA0C0CSgvp",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC10left_thumbAA0C0CSgvg",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC10left_thumbAA0C0CSgvg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC10left_thumbAA0C0CSgvs",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC10left_thumbAA0C0CSgvs",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC10left_thumbAA0C0CSgvM",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC10left_thumbAA0C0CSgvM",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "left_index",
+            "printedName": "left_index",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK17FingerprintResultC10left_indexAA0C0CSgvp",
+            "mangledName": "$s15truID_FingerSDK17FingerprintResultC10left_indexAA0C0CSgvp",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC10left_indexAA0C0CSgvg",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC10left_indexAA0C0CSgvg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC10left_indexAA0C0CSgvs",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC10left_indexAA0C0CSgvs",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC10left_indexAA0C0CSgvM",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC10left_indexAA0C0CSgvM",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "left_middle",
+            "printedName": "left_middle",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK17FingerprintResultC11left_middleAA0C0CSgvp",
+            "mangledName": "$s15truID_FingerSDK17FingerprintResultC11left_middleAA0C0CSgvp",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC11left_middleAA0C0CSgvg",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC11left_middleAA0C0CSgvg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC11left_middleAA0C0CSgvs",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC11left_middleAA0C0CSgvs",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC11left_middleAA0C0CSgvM",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC11left_middleAA0C0CSgvM",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "left_ring",
+            "printedName": "left_ring",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK17FingerprintResultC9left_ringAA0C0CSgvp",
+            "mangledName": "$s15truID_FingerSDK17FingerprintResultC9left_ringAA0C0CSgvp",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC9left_ringAA0C0CSgvg",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC9left_ringAA0C0CSgvg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC9left_ringAA0C0CSgvs",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC9left_ringAA0C0CSgvs",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC9left_ringAA0C0CSgvM",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC9left_ringAA0C0CSgvM",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "left_little",
+            "printedName": "left_little",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK17FingerprintResultC11left_littleAA0C0CSgvp",
+            "mangledName": "$s15truID_FingerSDK17FingerprintResultC11left_littleAA0C0CSgvp",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC11left_littleAA0C0CSgvg",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC11left_littleAA0C0CSgvg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC11left_littleAA0C0CSgvs",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC11left_littleAA0C0CSgvs",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC11left_littleAA0C0CSgvM",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC11left_littleAA0C0CSgvM",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "right_thumb",
+            "printedName": "right_thumb",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK17FingerprintResultC11right_thumbAA0C0CSgvp",
+            "mangledName": "$s15truID_FingerSDK17FingerprintResultC11right_thumbAA0C0CSgvp",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC11right_thumbAA0C0CSgvg",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC11right_thumbAA0C0CSgvg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC11right_thumbAA0C0CSgvs",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC11right_thumbAA0C0CSgvs",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC11right_thumbAA0C0CSgvM",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC11right_thumbAA0C0CSgvM",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "right_index",
+            "printedName": "right_index",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK17FingerprintResultC11right_indexAA0C0CSgvp",
+            "mangledName": "$s15truID_FingerSDK17FingerprintResultC11right_indexAA0C0CSgvp",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC11right_indexAA0C0CSgvg",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC11right_indexAA0C0CSgvg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC11right_indexAA0C0CSgvs",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC11right_indexAA0C0CSgvs",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC11right_indexAA0C0CSgvM",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC11right_indexAA0C0CSgvM",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "right_middle",
+            "printedName": "right_middle",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK17FingerprintResultC12right_middleAA0C0CSgvp",
+            "mangledName": "$s15truID_FingerSDK17FingerprintResultC12right_middleAA0C0CSgvp",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC12right_middleAA0C0CSgvg",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC12right_middleAA0C0CSgvg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC12right_middleAA0C0CSgvs",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC12right_middleAA0C0CSgvs",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC12right_middleAA0C0CSgvM",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC12right_middleAA0C0CSgvM",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "right_ring",
+            "printedName": "right_ring",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK17FingerprintResultC10right_ringAA0C0CSgvp",
+            "mangledName": "$s15truID_FingerSDK17FingerprintResultC10right_ringAA0C0CSgvp",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC10right_ringAA0C0CSgvg",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC10right_ringAA0C0CSgvg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC10right_ringAA0C0CSgvs",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC10right_ringAA0C0CSgvs",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC10right_ringAA0C0CSgvM",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC10right_ringAA0C0CSgvM",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "right_little",
+            "printedName": "right_little",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15truID_FingerSDK17FingerprintResultC12right_littleAA0C0CSgvp",
+            "mangledName": "$s15truID_FingerSDK17FingerprintResultC12right_littleAA0C0CSgvp",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC12right_littleAA0C0CSgvg",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC12right_littleAA0C0CSgvg",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "truID_FingerSDK.Finger?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Finger",
+                        "printedName": "truID_FingerSDK.Finger",
+                        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC12right_littleAA0C0CSgvs",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC12right_littleAA0C0CSgvs",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC12right_littleAA0C0CSgvM",
+                "mangledName": "$s15truID_FingerSDK17FingerprintResultC12right_littleAA0C0CSgvM",
+                "moduleName": "truID_FingerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(handImage:left_thumb:left_index:left_middle:left_ring:left_little:right_thumb:right_index:right_middle:right_ring:right_little:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FingerprintResult",
+                "printedName": "truID_FingerSDK.FingerprintResult",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGImage",
+                "printedName": "CoreGraphics.CGImage",
+                "usr": "c:@T@CGImageRef"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.Finger?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Finger",
+                    "printedName": "truID_FingerSDK.Finger",
+                    "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15truID_FingerSDK17FingerprintResultC9handImage10left_thumb0I6_index0I7_middle0I5_ring0I7_little06right_J00o1_K00o1_L00o1_M00o1_N0ACSo10CGImageRefa_AA0C0CSgA9Stcfc",
+            "mangledName": "$s15truID_FingerSDK17FingerprintResultC9handImage10left_thumb0I6_index0I7_middle0I5_ring0I7_little06right_J00o1_K00o1_L00o1_M00o1_N0ACSo10CGImageRefa_AA0C0CSgA9Stcfc",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:15truID_FingerSDK17FingerprintResultC",
+        "mangledName": "$s15truID_FingerSDK17FingerprintResultC",
+        "moduleName": "truID_FingerSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FingerprintCaptureProtocol",
+        "printedName": "FingerprintCaptureProtocol",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "callback",
+            "printedName": "callback(result:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "FingerprintResult",
+                "printedName": "truID_FingerSDK.FingerprintResult",
+                "usr": "s:15truID_FingerSDK17FingerprintResultC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15truID_FingerSDK26FingerprintCaptureProtocolP8callback6resultyAA0E6ResultC_tF",
+            "mangledName": "$s15truID_FingerSDK26FingerprintCaptureProtocolP8callback6resultyAA0E6ResultC_tF",
+            "moduleName": "truID_FingerSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : truID_FingerSDK.FingerprintCaptureProtocol>",
+            "sugared_genericSig": "<Self where Self : truID_FingerSDK.FingerprintCaptureProtocol>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onError",
+            "printedName": "onError(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15truID_FingerSDK26FingerprintCaptureProtocolP7onError7messageySS_tF",
+            "mangledName": "$s15truID_FingerSDK26FingerprintCaptureProtocolP7onError7messageySS_tF",
+            "moduleName": "truID_FingerSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : truID_FingerSDK.FingerprintCaptureProtocol>",
+            "sugared_genericSig": "<Self where Self : truID_FingerSDK.FingerprintCaptureProtocol>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:15truID_FingerSDK26FingerprintCaptureProtocolP",
+        "mangledName": "$s15truID_FingerSDK26FingerprintCaptureProtocolP",
+        "moduleName": "truID_FingerSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "truID_FingerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Finger",
+        "printedName": "Finger",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(position:bmpData:isoTemplateData:nistQualityScore:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Finger",
+                "printedName": "truID_FingerSDK.Finger",
+                "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UInt32",
+                "printedName": "Swift.UInt32",
+                "usr": "s:s6UInt32V"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSData",
+                "printedName": "Foundation.NSData",
+                "usr": "c:objc(cs)NSData"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UInt8",
+                "printedName": "Swift.UInt8",
+                "usr": "s:s5UInt8V"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@truID_FingerSDK@objc(cs)Finger(im)initWithPosition:bmpData:isoTemplateData:nistQualityScore:",
+            "mangledName": "$s15truID_FingerSDK0C0C8position7bmpData011isoTemplateG016nistQualityScoreACs6UInt32V_So6NSDataC10Foundation0G0Vs5UInt8Vtcfc",
+            "moduleName": "truID_FingerSDK",
+            "objc_name": "initWithPosition:bmpData:isoTemplateData:nistQualityScore:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "getPosition",
+            "printedName": "getPosition()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UInt32",
+                "printedName": "Swift.UInt32",
+                "usr": "s:s6UInt32V"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@truID_FingerSDK@objc(cs)Finger(im)getPosition",
+            "mangledName": "$s15truID_FingerSDK0C0C11getPositions6UInt32VyF",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getBmpData",
+            "printedName": "getBmpData()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NSData",
+                "printedName": "Foundation.NSData",
+                "usr": "c:objc(cs)NSData"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@truID_FingerSDK@objc(cs)Finger(im)getBmpData",
+            "mangledName": "$s15truID_FingerSDK0C0C10getBmpDataSo6NSDataCyF",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getNistQualityScore",
+            "printedName": "getNistQualityScore()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UInt8",
+                "printedName": "Swift.UInt8",
+                "usr": "s:s5UInt8V"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@truID_FingerSDK@objc(cs)Finger(im)getNistQualityScore",
+            "mangledName": "$s15truID_FingerSDK0C0C19getNistQualityScores5UInt8VyF",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getIsoTemplateData",
+            "printedName": "getIsoTemplateData()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@truID_FingerSDK@objc(cs)Finger(im)getIsoTemplateData",
+            "mangledName": "$s15truID_FingerSDK0C0C18getIsoTemplateData10Foundation0H0VyF",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Finger",
+                "printedName": "truID_FingerSDK.Finger",
+                "usr": "c:@M@truID_FingerSDK@objc(cs)Finger"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@truID_FingerSDK@objc(cs)Finger(im)init",
+            "mangledName": "$s15truID_FingerSDK0C0CACycfc",
+            "moduleName": "truID_FingerSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@truID_FingerSDK@objc(cs)Finger",
+        "mangledName": "$s15truID_FingerSDK0C0C",
+        "moduleName": "truID_FingerSDK",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "truID_FingerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "truID_FingerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "VideoToolbox",
+        "printedName": "VideoToolbox",
+        "declKind": "Import",
+        "moduleName": "truID_FingerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "truID_FingerSDK"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "Array",
+      "offset": 556,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 592,
+      "length": 2,
+      "value": "90"
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 627,
+      "length": 4,
+      "value": "1920"
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 665,
+      "length": 4,
+      "value": "1080"
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "Array",
+      "offset": 713,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 860,
+      "length": 3,
+      "value": "221"
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 872,
+      "length": 3,
+      "value": "221"
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 883,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 893,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 931,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 941,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 952,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 962,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1608,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 14311,
+      "length": 20,
+      "value": "\"Unexpected Failure\""
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/truID_FingerSDK\/Finger.swift",
+      "kind": "StringLiteral",
+      "offset": 132,
+      "length": 6,
+      "value": "\"truID_FingerSDK.Finger\""
+    },
+    {
+      "filePath": "\/Users\/abdullahcheema\/work\/Truid-IOS\/truID_FingerSDK\/truID_FingerSDK\/JWTUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 38,
+      "length": 738,
+      "value": "\"MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAvIS3eSmWsPLolvfK60jxZvYJrWI3LbP7zddmxNdhSQzUNikJmLh8WAGyIMyBuwlGTonya9I1g0LrWwgEI7oKKE\/KkZYPT4Y5Ui2h39BBnLY4+q+92Z6vEigcWk\/6Zi6gtqnY6Fh4D\/ChjjisBL0d5dE\/Ub70I\/6K\/xtGIGlB01PQ+OhjRLrJtsZsCyjE8E2WSs+zeY\/tpzc0yk11Fk8Cc8cpzlwQs\/Sm26cZHSzCSSTtPlo2y71ezdsrlvkIRNv2MYREXUq1OHPR6tMuhBvijwgcjXKCWxIdlTXEYemSdJ2Xmf4mcpedEQR3udPjuqjKrTbu7dy1kTxWNUWTqo74TmKr4tuPi8p9rRPlYHKNwUn5DsPi+gDuAQUTCsyEoiuECHvOC17EGTYIegFdny9SXUZOA5fqHslp4oauZ2oHqFH7eOGGB8i\/H4lrdbT\/cQF7fFTZykh5lQIQXvPhhtqCfG0svzKGboMeH3B4zTA3od+kJnOCLoB999cSGhL\/8ZsezpeQYKYdwp6a26CKwcpQoYRzHR7Hno7aAdbplPhIx+pdQ4kbcn+P4+INrPmKSGpd\/gY91W132DDO\/+kfD1i6lJ8nUpnNJNlTv1czhco4TF6gHnmQzsAoMUHJJtc\/BxqnyhIaTIoXuZgFbbIOR6lGvbJXImsVIDhJ8EPRUlR+v10CAwEAAQ==\""
+    }
+  ]
+}
