@@ -100,10 +100,6 @@
 		<data>
 		O5/MAgpShWKZv1qHkyXMZS7JQoM=
 		</data>
-		<key>IMG_0278.PNG</key>
-		<data>
-		q1q+sWr2RLAP6GvW8ltQljVMn6k=
-		</data>
 		<key>Info.plist</key>
 		<data>
 		NCQ39HxL8BEgZt2uDvsjHJGJbg8=
@@ -114,7 +110,7 @@
 		</data>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		3NMPunwUYQ+hvdLQXAKP/hCzudM=
+		Nlqbo3aIIbo7xrHQ2aJDuKxKCW4=
 		</data>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -130,7 +126,7 @@
 		</data>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Uxa6akUchDKb2zsnAc5vkzEkTVg=
+		lfRqgOLZWAd/T+vCedxtdErETkI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -303,13 +299,6 @@
 			1Bk6kpVJBoh1hPhmFyUyyDPgxd15xuNU2xQGfL3pgC8=
 			</data>
 		</dict>
-		<key>IMG_0278.PNG</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			H92Xk1w83DBGFKHKCvD/Q4U4c/5F5ChPKhYh7wGv0es=
-			</data>
-		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
@@ -321,7 +310,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8pcMmqDzMDz6kM7Cxo1jAdmjTAZ+sgVSTZufw0MJ6sU=
+			D92fEYBg6vQ+cHmakHT3DpykhiGITmwLDT9St2L/UrI=
 			</data>
 		</dict>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -349,7 +338,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mcrSuzEj4lHp7sI/9mn7Vn8KYacY22KKuUaHHPwVEDI=
+			XpiSM+2GOuKJhcZe8GYboaBJuLJmR5qSxhyzrAwlEpQ=
 			</data>
 		</dict>
 	</dict>

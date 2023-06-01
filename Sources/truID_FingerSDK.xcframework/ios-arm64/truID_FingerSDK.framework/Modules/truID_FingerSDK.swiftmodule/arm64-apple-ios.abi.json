@@ -3973,266 +3973,266 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/SplashScreen.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/SplashScreen.swift",
       "kind": "StringLiteral",
       "offset": 178,
       "length": 12,
       "value": "\"truID_FingerSDK.SplashScreen\""
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/GlobalSettings.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/GlobalSettings.swift",
       "kind": "StringLiteral",
       "offset": 249,
       "length": 30,
       "value": "\"https:\/\/release-api.truid.ai\""
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/GlobalSettings.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/GlobalSettings.swift",
       "kind": "StringLiteral",
       "offset": 349,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
       "kind": "Array",
       "offset": 557,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 593,
       "length": 2,
       "value": "90"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 628,
       "length": 4,
       "value": "1920"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 666,
       "length": 4,
       "value": "1080"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
       "kind": "Array",
       "offset": 714,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 861,
       "length": 3,
       "value": "221"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 873,
       "length": 3,
       "value": "221"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 884,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 894,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 932,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 942,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 953,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 963,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/FingerprintCaptureViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15515,
+      "offset": 15505,
       "length": 20,
       "value": "\"Unexpected Failure\""
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/FingerCaptureProtocol.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/FingerCaptureProtocol.swift",
       "kind": "BooleanLiteral",
       "offset": 1444,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/FingerprintCaptureStoryboardViewController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/FingerprintCaptureStoryboardViewController.swift",
       "kind": "StringLiteral",
       "offset": 184,
       "length": 8,
       "value": "\"asdasd\""
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/Finger.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/Finger.swift",
       "kind": "StringLiteral",
       "offset": 134,
       "length": 6,
       "value": "\"truID_FingerSDK.Finger\""
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/Api_Endpoints.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/Api_Endpoints.swift",
       "kind": "Dictionary",
       "offset": 203,
       "length": 599,
       "value": "[(\"demo_video\", false), (\"face_liveness\", false), (\"passive_face_liveness\", false), (\"on_device_liveness\", false), (\"document_capture\", false), (\"extract_data\", true), (\"document_authenticity\", false), (\"document_backside_capture\", false), (\"id_to_selfie_matching\", false), (\"fingerprint_capture\", true), (\"finger_selection\", true), (\"verisys_verification\", false), (\"personal_information_verification\", false), (\"mobile_number_verification\", false), (\"undertaking\", false), (\"account_options\", false), (\"agent_verification\", false)]"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
       "kind": "BooleanLiteral",
       "offset": 215,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
       "kind": "Array",
       "offset": 802,
       "length": 36,
       "value": "[\"Left 4 Fingers\", \"Right 4 Fingers\"]"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
       "kind": "StringLiteral",
       "offset": 1325,
       "length": 15,
       "value": "\"selectedIndex\""
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
       "kind": "StringLiteral",
       "offset": 1459,
       "length": 26,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
       "kind": "StringLiteral",
       "offset": 1477,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
       "kind": "StringLiteral",
       "offset": 1480,
       "length": 3,
       "value": "\" ▼\""
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
       "kind": "BooleanLiteral",
       "offset": 1679,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
       "kind": "IntegerLiteral",
       "offset": 1935,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
       "kind": "BooleanLiteral",
       "offset": 1994,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
       "kind": "IntegerLiteral",
       "offset": 2056,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
       "kind": "IntegerLiteral",
       "offset": 2117,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
       "kind": "IntegerLiteral",
       "offset": 2184,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
       "kind": "IntegerLiteral",
       "offset": 2253,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/PreviewScreenController.swift",
       "kind": "StringLiteral",
       "offset": 30,
       "length": 23,
       "value": "\"truID_FingerSDK.PreviewScreenController\""
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/HelpingScreen.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/HelpingScreen.swift",
       "kind": "IntegerLiteral",
       "offset": 173,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/HelpingScreen.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/HelpingScreen.swift",
       "kind": "BooleanLiteral",
       "offset": 203,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/truid\/Desktop\/AskariIosCopy\/AskariIosNew\/truID_FingerSDK\/truID_FingerSDK\/JWTUtils.swift",
+      "filePath": "\/Users\/truid\/Desktop\/truID_FingerSDK_App\/truID_FingerSDK\/truID_FingerSDK\/JWTUtils.swift",
       "kind": "StringLiteral",
       "offset": 38,
       "length": 738,
