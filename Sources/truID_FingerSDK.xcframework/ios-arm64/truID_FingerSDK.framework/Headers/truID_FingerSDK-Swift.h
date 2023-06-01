@@ -230,8 +230,8 @@ using UInt = size_t;
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import AVFoundation;
-@import CoreMedia;
+@import CoreLocation;
+@import Foundation;
 @import ObjectiveC;
 @import UIKit;
 #endif
@@ -254,36 +254,27 @@ using UInt = size_t;
 #endif
 
 #if defined(__OBJC__)
-@class NSData;
+@class CLLocationManager;
+@class CLLocation;
 
-SWIFT_CLASS("_TtC15truID_FingerSDK6Finger")
-@interface Finger : NSObject
-- (nonnull instancetype)initWithPosition:(uint32_t)position bmpData:(NSData * _Nonnull)bmpData isoTemplateData:(NSData * _Nonnull)isoTemplateData nistQualityScore:(uint8_t)nistQualityScore OBJC_DESIGNATED_INITIALIZER;
-- (uint32_t)getPosition SWIFT_WARN_UNUSED_RESULT;
-- (NSData * _Nonnull)getBmpData SWIFT_WARN_UNUSED_RESULT;
-- (uint8_t)getNistQualityScore SWIFT_WARN_UNUSED_RESULT;
-- (NSData * _Nonnull)getIsoTemplateData SWIFT_WARN_UNUSED_RESULT;
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+SWIFT_CLASS("_TtC15truID_FingerSDK11GlobalState")
+@interface GlobalState : NSObject <CLLocationManagerDelegate>
+- (void)locationManagerDidChangeAuthorization:(CLLocationManager * _Nonnull)manager;
+- (void)locationManager:(CLLocationManager * _Nonnull)manager didUpdateLocations:(NSArray<CLLocation *> * _Nonnull)locations;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class AVCaptureOutput;
-@class AVCaptureConnection;
+@class NSCoder;
 @class NSString;
 @class NSBundle;
-@class NSCoder;
 
-SWIFT_CLASS("_TtC15truID_FingerSDK32FingerprintCaptureViewController")
-@interface FingerprintCaptureViewController : UIViewController <AVCaptureVideoDataOutputSampleBufferDelegate>
+SWIFT_CLASS("_TtC15truID_FingerSDK12SplashScreen")
+@interface SplashScreen : UIViewController
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (void)viewDidLoad;
-- (void)didReceiveMemoryWarning;
-@property (nonatomic, readonly) UIInterfaceOrientationMask supportedInterfaceOrientations;
-@property (nonatomic, readonly) UIInterfaceOrientation preferredInterfaceOrientationForPresentation;
-///
-- (void)captureOutput:(AVCaptureOutput * _Nonnull)output didOutputSampleBuffer:(CMSampleBufferRef _Nonnull)sampleBuffer fromConnection:(AVCaptureConnection * _Nonnull)connection;
-- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil SWIFT_UNAVAILABLE;
 @end
+
 
 #endif
 #if defined(__cplusplus)

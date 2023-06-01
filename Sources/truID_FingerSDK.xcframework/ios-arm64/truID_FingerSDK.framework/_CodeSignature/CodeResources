@@ -4,29 +4,109 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>FingerprintCapture.storyboardc/FingerprintCaptureViewController.nib</key>
+		<key>Assets.car</key>
 		<data>
-		ItAeADNzq3KH+N3jKEv0/1kmrYs=
+		3sUWlcfDKJMVUw0AN7AU10TUU4E=
+		</data>
+		<key>FingerprintCapture.storyboardc/2.nib/objects-14.0+.nib</key>
+		<data>
+		iA6UZJ3vx0wtzzt/gVjpsYiBzgM=
+		</data>
+		<key>FingerprintCapture.storyboardc/2.nib/runtime.nib</key>
+		<data>
+		iA6UZJ3vx0wtzzt/gVjpsYiBzgM=
+		</data>
+		<key>FingerprintCapture.storyboardc/8Be-48-c4m-view-NtU-3P-iEM.nib/objects-14.0+.nib</key>
+		<data>
+		O2DJ75HoQJHyBeD05YSRuS+b5Sg=
+		</data>
+		<key>FingerprintCapture.storyboardc/8Be-48-c4m-view-NtU-3P-iEM.nib/runtime.nib</key>
+		<data>
+		S8fntFf55xsKDG++YxCOtVGX1yQ=
+		</data>
+		<key>FingerprintCapture.storyboardc/FingerprintCaptureViewController.nib/objects-14.0+.nib</key>
+		<data>
+		wmmjwSUy3Yv5WQCs29hI01LTKOw=
+		</data>
+		<key>FingerprintCapture.storyboardc/FingerprintCaptureViewController.nib/runtime.nib</key>
+		<data>
+		wmmjwSUy3Yv5WQCs29hI01LTKOw=
 		</data>
 		<key>FingerprintCapture.storyboardc/Info.plist</key>
 		<data>
-		XxXbamaxSLpjeTh95cDG/4oAJ78=
+		eOOoErGRwPvqTnF2+wW4Dw9dGic=
 		</data>
-		<key>FingerprintCapture.storyboardc/Y6W-OH-hqX-view-SwS-pm-1ye.nib</key>
+		<key>FingerprintCapture.storyboardc/KM5-1K-K2i-view-r2f-gJ-h5n.nib/objects-14.0+.nib</key>
 		<data>
-		2ZAsBm+/hqVPg1PTOsWjLS4KYYE=
+		60NmwmKI6UTul8lmlK0pHImaDmI=
+		</data>
+		<key>FingerprintCapture.storyboardc/KM5-1K-K2i-view-r2f-gJ-h5n.nib/runtime.nib</key>
+		<data>
+		BLUkopVgEZmbhlRN0wTmUBMrZ30=
+		</data>
+		<key>FingerprintCapture.storyboardc/LoadingScreen.nib/objects-14.0+.nib</key>
+		<data>
+		zuAKU6u0LZjikiCYGjAFibm2Y4g=
+		</data>
+		<key>FingerprintCapture.storyboardc/LoadingScreen.nib/runtime.nib</key>
+		<data>
+		zuAKU6u0LZjikiCYGjAFibm2Y4g=
+		</data>
+		<key>FingerprintCapture.storyboardc/PreviewScreenController.nib/objects-14.0+.nib</key>
+		<data>
+		rgMFWeOzrq1vKbZHrJHIEKyDBuI=
+		</data>
+		<key>FingerprintCapture.storyboardc/PreviewScreenController.nib/runtime.nib</key>
+		<data>
+		rgMFWeOzrq1vKbZHrJHIEKyDBuI=
+		</data>
+		<key>FingerprintCapture.storyboardc/RWH-ue-LrR-view-D7Z-m7-HwL.nib/objects-14.0+.nib</key>
+		<data>
+		3rHNHSJtbstE8dEg/hQKLJioIR0=
+		</data>
+		<key>FingerprintCapture.storyboardc/RWH-ue-LrR-view-D7Z-m7-HwL.nib/runtime.nib</key>
+		<data>
+		g1lb+3JVKBmEY7MlzpVGkTiFrgc=
+		</data>
+		<key>FingerprintCapture.storyboardc/SplashScreen.nib/objects-14.0+.nib</key>
+		<data>
+		YT/h7EoQ+NDUkfuQaDwDwlCaTHA=
+		</data>
+		<key>FingerprintCapture.storyboardc/SplashScreen.nib/runtime.nib</key>
+		<data>
+		YT/h7EoQ+NDUkfuQaDwDwlCaTHA=
+		</data>
+		<key>FingerprintCapture.storyboardc/Y6W-OH-hqX-view-SwS-pm-1ye.nib/objects-14.0+.nib</key>
+		<data>
+		F0x6vxyQsGKJxoMBBLxHS8mVjTo=
+		</data>
+		<key>FingerprintCapture.storyboardc/Y6W-OH-hqX-view-SwS-pm-1ye.nib/runtime.nib</key>
+		<data>
+		F0x6vxyQsGKJxoMBBLxHS8mVjTo=
+		</data>
+		<key>FingerprintCapture.storyboardc/aHL-du-uuc-view-up7-zX-36v.nib/objects-14.0+.nib</key>
+		<data>
+		BU1oeqR3aX8PztgR9Lg9B45gSDU=
+		</data>
+		<key>FingerprintCapture.storyboardc/aHL-du-uuc-view-up7-zX-36v.nib/runtime.nib</key>
+		<data>
+		BU1oeqR3aX8PztgR9Lg9B45gSDU=
 		</data>
 		<key>Headers/truID_FingerSDK-Swift.h</key>
 		<data>
-		cR5ZBVYFs1qTi77vDZ0gaskOvZI=
+		iv1E8y7DV3SF4OgFDO2LH+HVNcc=
 		</data>
 		<key>Headers/truID_FingerSDK.h</key>
 		<data>
 		O5/MAgpShWKZv1qHkyXMZS7JQoM=
 		</data>
+		<key>IMG_0278.PNG</key>
+		<data>
+		q1q+sWr2RLAP6GvW8ltQljVMn6k=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		QlBeJMzI4q9m3VQhbQ4v+Xdphhg=
+		NCQ39HxL8BEgZt2uDvsjHJGJbg8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -34,53 +114,186 @@
 		</data>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Ew7R3Q3BFSRWruek5F5/2Bg27bw=
+		3NMPunwUYQ+hvdLQXAKP/hCzudM=
 		</data>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		LmAxuT6BxW8Wi1gxK2BMeaSwXpc=
+		kVWU7tlUgYsaIkUTzfhkl+ozT6c=
 		</data>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		F03GTzg7LC39B4K5vXSeqvf3j2c=
+		wvGCau/AJ1ir2lWEnJbthcB/hFc=
 		</data>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		LmAxuT6BxW8Wi1gxK2BMeaSwXpc=
+		kVWU7tlUgYsaIkUTzfhkl+ozT6c=
 		</data>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		VMuRs7RXEKmFwxSRwrBEq+IYams=
+		Uxa6akUchDKb2zsnAc5vkzEkTVg=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>FingerprintCapture.storyboardc/FingerprintCaptureViewController.nib</key>
+		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d3HI0dO/SQKGMG3zZmTmNDE9vG5+OPy2nbLUVPz4ZX4=
+			lnn1MLmIbajydcHGaTy9TczSL/KvOQK8f6bZ5mWtgtU=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/2.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3oA4G+gQNJ+S2/ocFySDW5ml7UqhyR21MNwv+nS26s4=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/2.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3oA4G+gQNJ+S2/ocFySDW5ml7UqhyR21MNwv+nS26s4=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/8Be-48-c4m-view-NtU-3P-iEM.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q9zlSi0sbREmntoRZBHQn49BahZ6E8HHQivBDOO0vqU=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/8Be-48-c4m-view-NtU-3P-iEM.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z660UJ8UyoRG1M5Zfsg4BVf/puZPFSFO0q9JNgRnF04=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/FingerprintCaptureViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NWKlBPF/CCutvT5TaFuQCra+g6IBSFI4imXq4/9Du68=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/FingerprintCaptureViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NWKlBPF/CCutvT5TaFuQCra+g6IBSFI4imXq4/9Du68=
 			</data>
 		</dict>
 		<key>FingerprintCapture.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F2N/3eve9VfVGSPuWczvaGQw9xWAEBcg+QQlaJjZYaI=
+			H8k9C6D5T6oGTxlR4b3QpkQQGBinm7I+yEEvMQPPHi0=
 			</data>
 		</dict>
-		<key>FingerprintCapture.storyboardc/Y6W-OH-hqX-view-SwS-pm-1ye.nib</key>
+		<key>FingerprintCapture.storyboardc/KM5-1K-K2i-view-r2f-gJ-h5n.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WyWHS7S1zEHt8+H0SM6V1AbgnvKwigzsy3G2TZoU6aE=
+			IC6kXiOYFGVaASe2flSzWvJbd4zRrUBPqwYv/1LVfvc=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/KM5-1K-K2i-view-r2f-gJ-h5n.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Glb/dDq2A35uPLYG5Lr/nwM9PYgXR6+zPAeUHQ+3lBA=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/LoadingScreen.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iZH5r+1efT1075EvsRem1wK19JGE1L6SXyqeBRqYLOs=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/LoadingScreen.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iZH5r+1efT1075EvsRem1wK19JGE1L6SXyqeBRqYLOs=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/PreviewScreenController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			B4tVuhxKn64GjtimPUPnyNWYQ3iJbnJ9g3ctnaMQ1RY=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/PreviewScreenController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			B4tVuhxKn64GjtimPUPnyNWYQ3iJbnJ9g3ctnaMQ1RY=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/RWH-ue-LrR-view-D7Z-m7-HwL.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DG8XoVO6CwdJpyQa8WfaTVWTAgKUtPBWiuf3y0vZd58=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/RWH-ue-LrR-view-D7Z-m7-HwL.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XlIk2HHS9CChVr1gzfUPS58hsHZTKkGUgLV12k6GMF8=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/SplashScreen.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kfRBkcCcxSZoNOLO/Nx6jwVPTW6Gy9IpN1f1osKr/S0=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/SplashScreen.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kfRBkcCcxSZoNOLO/Nx6jwVPTW6Gy9IpN1f1osKr/S0=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/Y6W-OH-hqX-view-SwS-pm-1ye.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ulZV5LWHom/LlTVwQUo05eLem2u+VZTmIkyoiSgU+eM=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/Y6W-OH-hqX-view-SwS-pm-1ye.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ulZV5LWHom/LlTVwQUo05eLem2u+VZTmIkyoiSgU+eM=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/aHL-du-uuc-view-up7-zX-36v.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BbEFII321dzbp+dtDOJ25CNjL1I47XJX5/bcdXRiVek=
+			</data>
+		</dict>
+		<key>FingerprintCapture.storyboardc/aHL-du-uuc-view-up7-zX-36v.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BbEFII321dzbp+dtDOJ25CNjL1I47XJX5/bcdXRiVek=
 			</data>
 		</dict>
 		<key>Headers/truID_FingerSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uC9RqvGO4HaMNMy8+2+XZEHl1bSUDZhLcMxgp6EooQY=
+			xgikyivVp2+5Gpdh+5ZXVKwmisnw5dyWjme1lZcHFYo=
 			</data>
 		</dict>
 		<key>Headers/truID_FingerSDK.h</key>
@@ -88,6 +301,13 @@
 			<key>hash2</key>
 			<data>
 			1Bk6kpVJBoh1hPhmFyUyyDPgxd15xuNU2xQGfL3pgC8=
+			</data>
+		</dict>
+		<key>IMG_0278.PNG</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H92Xk1w83DBGFKHKCvD/Q4U4c/5F5ChPKhYh7wGv0es=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -101,35 +321,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			whTFmHq02V7WBQgt08orlttC1rQ1H7yxDEtEjWCt9+E=
+			8pcMmqDzMDz6kM7Cxo1jAdmjTAZ+sgVSTZufw0MJ6sU=
 			</data>
 		</dict>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O2BL8jZnn6SFAkD2IgPg3dj0H8xm93gUFGJIJ3V/xhk=
+			KToCRFlJTKkCDCc5KV/75yZ2W1NbkY45m3bUsqLc9GI=
 			</data>
 		</dict>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V6genOarJXWDpSzvrnCc8wPD/Kr/IacL7mo3M+4OwB4=
+			B+qWLMQujTt+ja016+NLEgNQJhs7qEbapo1j0Pst3jE=
 			</data>
 		</dict>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O2BL8jZnn6SFAkD2IgPg3dj0H8xm93gUFGJIJ3V/xhk=
+			KToCRFlJTKkCDCc5KV/75yZ2W1NbkY45m3bUsqLc9GI=
 			</data>
 		</dict>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qGnt/A2rnnjYBFEOXiz/lBKw0i642HMTgBx0ra4HSTc=
+			mcrSuzEj4lHp7sI/9mn7Vn8KYacY22KKuUaHHPwVEDI=
 			</data>
 		</dict>
 	</dict>
