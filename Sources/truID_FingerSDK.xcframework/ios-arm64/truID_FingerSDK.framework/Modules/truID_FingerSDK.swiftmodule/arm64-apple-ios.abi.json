@@ -1974,6 +1974,137 @@
         ]
       },
       {
+        "kind": "TypeDecl",
+        "name": "FingerCaptureDelegate",
+        "printedName": "FingerCaptureDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "callback",
+            "printedName": "callback(result:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "truID_FingerSDK.SessionResult?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SessionResult",
+                    "printedName": "truID_FingerSDK.SessionResult",
+                    "usr": "s:15truID_FingerSDK13SessionResultC"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15truID_FingerSDK0C15CaptureDelegateC8callback6resultyAA13SessionResultCSg_tF",
+            "mangledName": "$s15truID_FingerSDK0C15CaptureDelegateC8callback6resultyAA13SessionResultCSg_tF",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onError",
+            "printedName": "onError(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15truID_FingerSDK0C15CaptureDelegateC7onError7messageySS_tF",
+            "mangledName": "$s15truID_FingerSDK0C15CaptureDelegateC7onError7messageySS_tF",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(resultCallback:errorCallback:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FingerCaptureDelegate",
+                "printedName": "truID_FingerSDK.FingerCaptureDelegate",
+                "usr": "s:15truID_FingerSDK0C15CaptureDelegateC"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(truID_FingerSDK.SessionResult) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SessionResult",
+                    "printedName": "truID_FingerSDK.SessionResult",
+                    "usr": "s:15truID_FingerSDK13SessionResultC"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.String) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15truID_FingerSDK0C15CaptureDelegateC14resultCallback05errorH0ACyAA13SessionResultCc_ySSctcfc",
+            "mangledName": "$s15truID_FingerSDK0C15CaptureDelegateC14resultCallback05errorH0ACyAA13SessionResultCc_ySSctcfc",
+            "moduleName": "truID_FingerSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:15truID_FingerSDK0C15CaptureDelegateC",
+        "mangledName": "$s15truID_FingerSDK0C15CaptureDelegateC",
+        "moduleName": "truID_FingerSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
