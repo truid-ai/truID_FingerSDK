@@ -55,7 +55,7 @@ public protocol FingerprintCaptureProtocol {
   func callback(result: truID_FingerSDK.SessionResult?)
   func onError(message: Swift.String)
 }
-public class FingerCaptureDelegate {
+public class FingerCaptureDelegate : truID_FingerSDK.FingerprintCaptureProtocol {
   public func callback(result: truID_FingerSDK.SessionResult?)
   public func onError(message: Swift.String)
   public init(resultCallback: @escaping (truID_FingerSDK.SessionResult) -> Swift.Void, errorCallback: @escaping (Swift.String) -> Swift.Void)

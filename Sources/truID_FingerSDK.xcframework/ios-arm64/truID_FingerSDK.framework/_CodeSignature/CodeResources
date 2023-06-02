@@ -110,11 +110,11 @@
 		</data>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		C0CNbctGD6DpEThEO30eE2q7AtA=
+		XEwuT6/Q0bmXIGaC/PjP3y6tdfQ=
 		</data>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		zKZO7sMN3dUn8PaJhFvlz2zlswE=
+		+XkdZW7it33f1Cu8Zooki2E8Oyc=
 		</data>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -122,11 +122,11 @@
 		</data>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		zKZO7sMN3dUn8PaJhFvlz2zlswE=
+		+XkdZW7it33f1Cu8Zooki2E8Oyc=
 		</data>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		qevQP2tUSDHc1v6W8YsAjK8rP6A=
+		pGNvLZ37HSbXC+ur5MpagbTXeV8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -310,14 +310,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+B06mN5fY6OTYb4DFBo4iSH2uyGLqCfXs5aj9XHQsqY=
+			TCduYhmQ1YHuKOM5cR3PIl/zh089jDOsdE00vng97rM=
 			</data>
 		</dict>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l6g6EcNZC7ddDNSAMTBKMyymVr3x2t+cnQ0QcIMIgJA=
+			PtZ9Sxae5+Srly+ceeM9WyBfgzTBz0k3ssdkbHwtbZY=
 			</data>
 		</dict>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -331,14 +331,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l6g6EcNZC7ddDNSAMTBKMyymVr3x2t+cnQ0QcIMIgJA=
+			PtZ9Sxae5+Srly+ceeM9WyBfgzTBz0k3ssdkbHwtbZY=
 			</data>
 		</dict>
 		<key>Modules/truID_FingerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7cgzfBy90cb8ZMRxRHaKvyJsyAylB6ortEk6ga1C6/k=
+			OKJsYplrEUQAfrynhL58m3j+/b0GEJamSiT+TLilRfg=
 			</data>
 		</dict>
 	</dict>
